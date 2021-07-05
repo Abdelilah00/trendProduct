@@ -1,4 +1,7 @@
 # trendProduct shows you all the trend products per country and category.
+this is the link of an explaining video we've made :
+https://drive.google.com/file/d/1PEZdSlPHSZjOIBOQHql4CicAFTgKDyY9/view
+
 first run the scripts to get access to this page,
 
 
